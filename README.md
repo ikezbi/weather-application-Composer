@@ -1,0 +1,1 @@
+"Une application m‚t‚o moderne fournissant des informations pr‚cises et en temps r‚el pour Rabat et Casablanca, ainsi que d'autres villes. Elle utilise l'API OpenWeather et stocke les donn‚es dans MongoDB pour consultation ult‚rieure. De plus, l'application peut ˆtre d‚ploy‚e avec Docker Compose pour une gestion simplifi‚e" 
